@@ -1,0 +1,21 @@
+{
+    "name": "Darkish-Theme",
+    "displayName": "ErrorDark",
+    "description": "ErrorDIM's VSCode Dark Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ErrorDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ErrorDark-color-theme.json"
+            }
+        ]
+    }
+}
