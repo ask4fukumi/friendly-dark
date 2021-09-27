@@ -746,7 +746,7 @@
 		{
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#CF433E",
+				"foreground": "#CF433E"
 			}
 		},
 		{
@@ -1243,6 +1243,23 @@
 			"scope": "token.debug-token",
 			"settings": {
 				"foreground": "#B267E6"
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator.cast"
+			],
+			"settings": {
+				"foreground": "#569CD6",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"support.other.variable"
+			],
+			"settings": {
+				"fontStyle": "underline italic"
 			}
 		}
 	]
