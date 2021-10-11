@@ -224,10 +224,10 @@
 		//"editorInfo.foreground": "#3794ff",
 		//"editorInlayHint.background": "#58548099",
 		//"editorInlayHint.foreground": "#ffffffcc",
-		//"editorInlayHintParameter.background": "#58548099",
-		//"editorInlayHintParameter.foreground": "#ffffffcc",
-		//"editorInlayHintType.background": "#58548099",
-		//"editorInlayHintType.foreground": "#ffffffcc",
+		//"editorInlayHint.parameterBackground": "#58548099",
+		//"editorInlayHint.parameterForeground": "#ffffffcc",
+		//"editorInlayHint.typeBackground": "#58548099",
+		//"editorInlayHint.typeForeground": "#ffffffcc",
 		//"editorLightBulb.foreground": "#ffcc00",
 		//"editorLightBulbAutoFix.foreground": "#75beff",
 		//"editorMarkerNavigation.background": "#1b1b24",
@@ -334,6 +334,7 @@
 		//"merge.incomingHeaderBackground": "#40a6ff80",
 		//"minimap.errorHighlight": "#ff1212b3",
 		//"minimap.findMatchHighlight": "#d18616",
+		//"minimap.foregroundOpacity": "#000000",
 		//"minimap.selectionHighlight": "#264f78",
 		//"minimap.selectionOccurrenceHighlight": "#676767",
 		//"minimap.warningHighlight": "#cca700",
@@ -1260,6 +1261,12 @@
 			],
 			"settings": {
 				"fontStyle": "underline italic"
+			}
+		},
+		{
+			"scope": "meta.object-literal.key",
+			"settings": {
+				"foreground": "#00E1FF"
 			}
 		}
 	]
