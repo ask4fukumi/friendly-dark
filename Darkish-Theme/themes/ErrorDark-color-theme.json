@@ -1268,6 +1268,14 @@
 			"settings": {
 				"foreground": "#00E1FF"
 			}
+		},
+		{
+			"scope": [
+				"entity.name.tag"
+			],
+			"settings": {
+				"foreground": "#569CD6"
+			}
 		}
 	]
 }
