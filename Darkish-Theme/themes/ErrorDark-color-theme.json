@@ -219,6 +219,7 @@
 		//"editorHoverWidget.background": "#313141",
 		//"editorHoverWidget.border": "#47475e",
 		//"editorHoverWidget.foreground": "#c8c7d5",
+		//"editorHoverWidget.highlightForeground": "#18a3ff",
 		//"editorHoverWidget.statusBarBackground": "#3b3b4e",
 		//"editorIndentGuide.activeBackground": "#313141",
 		//"editorInfo.foreground": "#3794ff",
@@ -507,7 +508,7 @@
 		//"welcomePage.progress.foreground": "#3794ff",
 		//"welcomePage.tileBackground": "#313141",
 		//"welcomePage.tileHoverBackground": "#3b3b4e",
-		//"welcomePage.tileShadow.": "#0000005c",
+		//"welcomePage.tileShadow": "#0000005c",
 		//"widget.shadow": "#0000005c",
 		//"activityBar.activeBackground": null,
 		//"activityBar.activeFocusBorder": null,
@@ -600,8 +601,6 @@
 		//"toolbar.hoverOutline": null,
 		//"walkThrough.embeddedEditorBackground": null,
 		//"welcomePage.background": null,
-		//"welcomePage.buttonBackground": null,
-		//"welcomePage.buttonHoverBackground": null,
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
 	},
@@ -1276,6 +1275,16 @@
 			],
 			"settings": {
 				"foreground": "#569CD6"
+			}
+		},
+		{
+			"scope": [
+				"support.constant.property",
+				"keyword.operator.expression"
+			],
+			"settings": {
+				"foreground": "#C586C0",
+				"fontStyle": "underline"
 			}
 		}
 	]
