@@ -643,7 +643,10 @@
 			}
 		},
 		{
-			"scope": "variable",
+			"scope": [
+				"variable",
+				"support.variable.property"
+			],
 			"settings": {
 				"foreground": "#00E1FF",
 				"fontStyle": ""
