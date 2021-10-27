@@ -207,6 +207,18 @@
 		//"editor.symbolHighlightBackground": "#ea5c0055",
 		//"editorActiveLineNumber.foreground": "#c6c6c6",
 		//"editorBracketHighlight.unexpectedBracket.foreground": "#ff1212cc",
+		//"editorBracketPairGuide.activeBackground1": "#00000000",
+		//"editorBracketPairGuide.activeBackground2": "#00000000",
+		//"editorBracketPairGuide.activeBackground3": "#00000000",
+		//"editorBracketPairGuide.activeBackground4": "#00000000",
+		//"editorBracketPairGuide.activeBackground5": "#00000000",
+		//"editorBracketPairGuide.activeBackground6": "#00000000",
+		//"editorBracketPairGuide.background1": "#00000000",
+		//"editorBracketPairGuide.background2": "#00000000",
+		//"editorBracketPairGuide.background3": "#00000000",
+		//"editorBracketPairGuide.background4": "#00000000",
+		//"editorBracketPairGuide.background5": "#00000000",
+		//"editorBracketPairGuide.background6": "#00000000",
 		//"editorCodeLens.foreground": "#999999",
 		//"editorError.foreground": "#f14c4c",
 		//"editorGhostText.foreground": "#ffffff56",
@@ -259,7 +271,7 @@
 		//"extensionBadge.remoteBackground": "#585480",
 		//"extensionBadge.remoteForeground": "#ffffff",
 		//"extensionIcon.starForeground": "#ff8e00",
-		//"extensionIcon.verifiedForeground": "#0e639c",
+		//"extensionIcon.verifiedForeground": "#3794ff",
 		//"gitDecoration.addedResourceForeground": "#81b88b",
 		//"gitDecoration.renamedResourceForeground": "#73c991",
 		//"gitDecoration.stageDeletedResourceForeground": "#c74e39",
@@ -628,6 +640,15 @@
 			}
 		},
 		{
+			"scope": [
+				"meta.object-literal.key",
+				"support.variable.property"
+			],
+			"settings": {
+				"foreground": "#9C8FE6"
+			}
+		},
+		{
 			"scope": "constant.language",
 			"settings": {
 				"foreground": "#7873AE"
@@ -645,7 +666,8 @@
 		{
 			"scope": [
 				"variable",
-				"support.variable.property"
+				"variable.other",
+				"variable.other.property"
 			],
 			"settings": {
 				"foreground": "#00E1FF",
@@ -875,14 +897,7 @@
 			}
 		},
 		{
-			"scope": "variable.other",
-			"settings": {
-				"foreground": "#C8C7D5",
-				"fontStyle": ""
-			}
-		},
-		{
-			"scope": "variable.parameter.function.coffee",
+			"scope": "variable.parameter.function",
 			"settings": {
 				"foreground": "#A6FA62",
 				"fontStyle": ""
@@ -1104,9 +1119,7 @@
 		},
 		{
 			"scope": [
-				"variable",
-				"variable.parameter",
-				"variable.other"
+				"variable.parameter"
 			],
 			"settings": {
 				"foreground": "#00E1FF"
@@ -1273,12 +1286,6 @@
 			],
 			"settings": {
 				"fontStyle": "underline italic"
-			}
-		},
-		{
-			"scope": "meta.object-literal.key",
-			"settings": {
-				"foreground": "#00E1FF"
 			}
 		},
 		{
