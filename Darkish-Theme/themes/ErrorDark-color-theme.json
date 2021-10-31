@@ -768,7 +768,10 @@
 			}
 		},
 		{
-			"scope": "support.other.variable",
+			"scope": [
+				"support.other.variable",
+				"variable.language.this"
+			],
 			"settings": {
 				"foreground": "#11C9C9",
 				"fontStyle": "underline italic"
