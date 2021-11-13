@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="867.574" height="866.211" viewBox="0 0 867.574 866.211">
+  <g id="icon-square" transform="translate(-984.426 -107)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="865" height="865" transform="translate(986 108)" fill="#1b1b24"/>
+    <path id="Path_1" data-name="Path 1" d="M1974.952,229.948s-296.983-32.476-296.843,219.474c-80.526,214.737-198.948,162.632-353.685,255.79-260.83,2.341-210,388.422-210,388.422L1851,974.211Z" transform="translate(-126 -121)" fill="#262633"/>
+    <path id="Path_2" data-name="Path 2" d="M1851,108s-170.025,4.956-169.885,256.906c-2.569,235.1-68.427,423.991-412.638,441.359-260.83,2.341-283.213,167.946-283.213,167.946H1851Z" transform="translate(1 -1)" fill="#585480"/>
+    <g id="blocks" transform="translate(-5 6)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="101" height="99" transform="translate(1151 291)" fill="#e0f"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="101" height="99" transform="translate(1202 678)" fill="#e0f"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="261" height="99" transform="translate(1333 678)" fill="#c586c0"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="44" height="99" transform="translate(1413 420)" fill="#585480"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="341" height="99" transform="translate(1282 291)" fill="#1a7cc6"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="181" height="99" transform="translate(1202 420)" fill="#c586c0"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="527" height="99" transform="translate(1202 549)" fill="#569cd6"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="291" height="99" transform="translate(1487 420)" fill="#4de199"/>
+    </g>
+  </g>
+</svg>
