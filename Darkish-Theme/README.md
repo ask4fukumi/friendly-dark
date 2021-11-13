@@ -1,13 +1,17 @@
-# README
-## This is the README for ErrorDIM extension "Darkish-Theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# ErrorDark for [Visual Studio Code](https://code.visualstudio.com/)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+> **A dark theme for [Visual Studio Code](https://code.visualstudio.com)**
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Picture](ErrorDark.png)
 
-**Enjoy!**
+## Demonstration
+
+Preview [here](https://vscode.dev/theme/errordim.darkish-theme)
+
+## Install
+
+Can be found at [here](https://marketplace.visualstudio.com/items?itemName=ErrorDIM.Darkish-Theme)
+
+## License
+
+[MIT License](./#)
