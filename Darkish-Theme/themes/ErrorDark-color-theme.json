@@ -867,9 +867,14 @@
 			}
 		},
 		{
-			"scope": "meta.property-name support.type.property-name",
+			"scope": [
+				"meta.property-name support.type.property-name",
+				"meta.property-name.css",
+				"meta.property-list.css"
+			],
 			"settings": {
-				"fontStyle": ""
+				"fontStyle": "",
+				"foreground": "#4EC9B0"
 			}
 		},
 		{
