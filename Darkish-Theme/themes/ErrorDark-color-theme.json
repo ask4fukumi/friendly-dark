@@ -630,9 +630,7 @@
 		{
 			"scope": [
 				"support.other.variable",
-				"variable.language.this",
-				"variable.other.constant.object.js",
-				"variable.other.readwrite.alias.js"
+				"variable.language.this"
 			],
 			"settings": {
 				"foreground": "#11C9C9",
@@ -642,7 +640,6 @@
 		{
 			"scope": [
 				"variable.other.constant",
-				"variable.other.constant.js",
 				"meta.definition.variable.js"
 			],
 			"settings": {
