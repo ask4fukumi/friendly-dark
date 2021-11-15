@@ -870,7 +870,9 @@
 			"scope": [
 				"meta.property-name support.type.property-name",
 				"meta.property-name.css",
-				"meta.property-list.css"
+				"meta.property-list.css",
+				"meta.property-name.scss",
+				"meta.property-list.scss"
 			],
 			"settings": {
 				"fontStyle": "",
