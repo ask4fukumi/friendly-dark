@@ -1295,14 +1295,6 @@
 		},
 		{
 			"scope": [
-				"support.other.variable"
-			],
-			"settings": {
-				"fontStyle": "underline italic"
-			}
-		},
-		{
-			"scope": [
 				"entity.name.tag"
 			],
 			"settings": {
