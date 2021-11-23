@@ -2,7 +2,7 @@
     "name": "darkish-theme",
     "displayName": "ErrorDark",
     "description": "ErrorDIM's VSCode Dark Theme",
-    "version": "6.0.7",
+    "version": "7.1.0",
     "publisher": "ErrorDIM",
     "icon": "errordark-circle.png",
     "engines": {
@@ -16,7 +16,12 @@
         "theme",
         "dark",
         "errordim",
-        "errordark"
+        "errordark",
+        "darkish",
+        "purple",
+        "blue",
+        "nice",
+        "background"
     ],
     "categories": [
         "Themes"
@@ -24,9 +29,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "ErrorDark",
+                "label": "ErrorDark - Purple",
                 "uiTheme": "vs-dark",
-                "path": "./themes/ErrorDark-color-theme.json"
+                "path": "./themes/Purple-color-theme.json"
+            },
+            {
+                "label": "ErrorDark - Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blue-color-theme.json"
             }
         ]
     }
