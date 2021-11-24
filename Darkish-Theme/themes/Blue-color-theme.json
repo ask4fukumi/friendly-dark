@@ -6,6 +6,9 @@
         "variable.global": {
             "foreground": "#BD93F9",
             "fontStyle": "bold underline"
+        },
+        "function.async": {
+            "foreground": "#EE00FF"
         }
     },
     "colors": {
@@ -670,7 +673,11 @@
         {
             "scope": [
                 "keyword.control.new",
-                "keyword.operator.new"
+                "keyword.operator.new",
+                "keyword.operator.expression.new",
+                "keyword.control.delete",
+                "keyword.operator.delete",
+                "keyword.operator.expression.delete"
             ],
             "settings": {
                 "fontStyle": "bold"

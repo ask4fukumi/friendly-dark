@@ -1,2 +1,6 @@
-*.js
+# test file
+main.*
+
+
+# test server file
 index.html
