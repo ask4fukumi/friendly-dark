@@ -1,5 +1,6 @@
 # test file
 main.*
+*.js
 
 
 # test server file
