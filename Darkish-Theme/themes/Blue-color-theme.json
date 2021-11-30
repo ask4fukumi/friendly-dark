@@ -5,7 +5,7 @@
     "semanticTokenColors": {
         "variable.global": {
             "foreground": "#BD93F9",
-            "fontStyle": "bold underline"
+            "fontStyle": "bold"
         },
         "function.async": {
             "foreground": "#EE00FF"
@@ -1198,7 +1198,7 @@
             ],
             "settings": {
                 "foreground": "#9A86FD",
-                "fontStyle": "bold underline"
+                "fontStyle": "bold"
             }
         },
         {
