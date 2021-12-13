@@ -1252,10 +1252,10 @@
 		},
 		{
 			"scope": [
-				"punctuation.definition.string"
+				"punctuation.definition.string.json"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#A6FA62"
 			}
 		},
 		{
