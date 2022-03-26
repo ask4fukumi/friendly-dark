@@ -2,7 +2,7 @@
     "name": "darkish-theme",
     "displayName": "ErrorDark",
     "description": "ErrorDIM's VSCode Dark Theme",
-    "version": "7.1.8",
+    "version": "7.1.9",
     "publisher": "ErrorDIM",
     "icon": "errordark-circle.png",
     "engines": {
