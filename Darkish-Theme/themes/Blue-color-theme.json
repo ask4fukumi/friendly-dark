@@ -17,7 +17,7 @@
         "selection.background": "#bd93f9",
         "scrollbar.shadow": "#00000000",
         "activityBar.activeBorder": "#ff6bcb",
-		"activityBar.activeBackground": "#121428",
+        "activityBar.activeBackground": "#121428",
         "activityBar.background": "#121428",
         "activityBar.foreground": "#f8f8f2",
         "activityBar.inactiveForeground": "#6272a4",
@@ -1113,7 +1113,7 @@
             ],
             "settings": {
                 "foreground": "#11C9C9",
-                "fontStyle": "underline italic"
+                "fontStyle": "italic"
             }
         },
         {
