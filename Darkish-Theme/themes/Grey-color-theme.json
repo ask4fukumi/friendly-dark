@@ -3,6 +3,10 @@
     "type": "dark",
     "semanticHighlighting": true,
     "semanticTokenColors": {
+        "namespace": {
+            "foreground": "#4EC9B0",
+            "fontStyle": "italic"
+        },
         "variable.global": {
             "foreground": "#BD93F9",
             "fontStyle": "bold"
@@ -1193,7 +1197,6 @@
         },
         {
             "scope": [
-                "meta.using-namespace",
                 "entity.name.namespace",
                 "entity.name.scope-resolution"
             ],
