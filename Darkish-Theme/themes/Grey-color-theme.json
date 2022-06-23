@@ -4,7 +4,7 @@
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "namespace": {
-            "foreground": "#4EC9B0",
+            "foreground": "#8be9fd",
             "fontStyle": "italic"
         },
         "variable.global": {
@@ -223,12 +223,12 @@
         //"editorHoverWidget.highlightForeground": "#d7dae0",
         //"editorHoverWidget.statusBarBackground": "#282c34",
         //"editorInfo.foreground": "#3794ff",
-        //"editorInlayHint.background": "#528bff99",
-        //"editorInlayHint.foreground": "#d7dae0cc",
-        //"editorInlayHint.parameterBackground": "#528bff99",
-        //"editorInlayHint.parameterForeground": "#d7dae0cc",
-        //"editorInlayHint.typeBackground": "#528bff99",
-        //"editorInlayHint.typeForeground": "#d7dae0cc",
+        "editorInlayHint.background": "#4273d5cf",
+        "editorInlayHint.foreground": "#fffff0",
+        "editorInlayHint.parameterBackground": "#4273d5cf",
+        "editorInlayHint.parameterForeground": "#fffff0",
+        "editorInlayHint.typeBackground": "#00000000",
+        "editorInlayHint.typeForeground": "#8be9fd",
         //"editorLightBulb.foreground": "#ffcc00",
         //"editorLightBulbAutoFix.foreground": "#75beff",
         //"editorLink.activeForeground": "#4e94ce",
