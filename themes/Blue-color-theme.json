@@ -1154,6 +1154,7 @@
             "scope": [
                 "variable.graphql",
                 "string",
+                "string.quoted",
                 "punctuation.definition.string.begin",
                 "punctuation.definition.string.end",
                 "meta.attribute-selector.scss",
