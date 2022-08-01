@@ -2,11 +2,11 @@
 
 > **A dark theme for [Visual Studio Code](https://code.visualstudio.com)**
 
-![Picture](ErrorDark.png)
+![Picture](./previews/ErrorDark.png)
 
 ## Demonstration
 
-Preview [here](https://vscode.dev/theme/errordim.darkish-theme)
+Preview [here](https://vscode.dev/theme/errordim.darkish-theme)!
 
 ## Install
 

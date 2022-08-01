@@ -4,7 +4,7 @@
     "description": "ErrorDIM's VSCode Dark Theme",
     "version": "7.2.5",
     "publisher": "ErrorDIM",
-    "icon": "errordark-circle.png",
+    "icon": "./icons/errordark-circle.png",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -29,14 +29,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "ErrorDark - Purple",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Purple-color-theme.json"
-            },
-            {
                 "label": "ErrorDark - Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Blue-color-theme.json"
+            },
+            {
+                "label": "ErrorDark - Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple-color-theme.json"
             },
             {
                 "label": "ErrorDark - Grey",

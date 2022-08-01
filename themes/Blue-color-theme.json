@@ -9,6 +9,9 @@
         },
         "function.async": {
             "foreground": "#EE00FF"
+        },
+        "string": {
+            "foreground": "#EAC394"
         }
     },
     "colors": {
@@ -1154,7 +1157,8 @@
                 "punctuation.definition.string.begin",
                 "punctuation.definition.string.end",
                 "meta.attribute-selector.scss",
-                "meta.attribute-selector.css"
+                "meta.attribute-selector.css",
+                "meta.embedded.line.css"
             ],
             "settings": {
                 "foreground": "#EAC394"
