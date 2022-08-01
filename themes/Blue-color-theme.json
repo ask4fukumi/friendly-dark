@@ -298,14 +298,6 @@
         },
         {
             "scope": [
-                "source"
-            ],
-            "settings": {
-                "foreground": "#F8F8F2"
-            }
-        },
-        {
-            "scope": [
                 "meta.diff",
                 "meta.diff.header"
             ],
