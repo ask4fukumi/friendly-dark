@@ -12,7 +12,8 @@
         },
         "string": {
             "foreground": "#EAC394"
-        }
+        },
+        "enum": "#FFF49E"
     },
     "colors": {
         "foreground": "#f8f8f2",
@@ -1340,13 +1341,6 @@
             ],
             "settings": {
                 "foreground": "#2CCCFF"
-            }
-        },
-        {
-            "scope": "variable.other.enummember",
-            "settings": {
-                "foreground": "#FFF49E",
-                "fontStyle": "italic underline"
             }
         }
     ]

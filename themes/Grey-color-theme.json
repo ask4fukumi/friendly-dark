@@ -16,7 +16,8 @@
         },
         "string": {
             "foreground": "#EAC394"
-        }
+        },
+        "enum": "#FFF49E"
     },
     "colors": {
         "activityBar.background": "#333842",
@@ -1724,13 +1725,6 @@
             ],
             "settings": {
                 "foreground": "#2CCCFF"
-            }
-        },
-        {
-            "scope": "variable.other.enummember",
-            "settings": {
-                "foreground": "#FFF49E",
-                "fontStyle": "italic underline"
             }
         }
     ]

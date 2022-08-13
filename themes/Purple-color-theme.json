@@ -1348,8 +1348,7 @@
 		{
 			"scope": "variable.other.enummember",
 			"settings": {
-				"foreground": "#FFF49E",
-				"fontStyle": "italic underline"
+				"foreground": "#FFF49E"
 			}
 		}
 	]
