@@ -17,7 +17,14 @@
         "string": {
             "foreground": "#EAC394"
         },
-        "enum": "#FFF49E"
+        "enum": {
+            "foreground": "#FFF49E",
+            "fontStyle": ""
+        },
+        "enumMember": {
+            "foreground": "#FFF49E",
+            "fontStyle": "italic"
+        },
     },
     "colors": {
         "activityBar.background": "#333842",
