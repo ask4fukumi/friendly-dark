@@ -7,12 +7,16 @@
             "foreground": "#8be9fd",
             "fontStyle": "italic"
         },
+        "type": {
+            "foreground": "#8BE9FD",
+            "fontStyle": ""
+        },
         "variable.global": {
             "foreground": "#BD93F9",
             "fontStyle": "bold"
         },
         "function.async": {
-            "foreground": "#EE00FF"
+            "foreground": "#DCDCAA"
         },
         "string": {
             "foreground": "#EAC394"

@@ -8,7 +8,11 @@
             "fontStyle": "bold"
         },
         "function.async": {
-            "foreground": "#EE00FF"
+            "foreground": "#DCDCAA"
+        },
+        "type": {
+            "foreground": "#8BE9FD",
+            "fontStyle": ""
         },
         "string": {
             "foreground": "#EAC394"
