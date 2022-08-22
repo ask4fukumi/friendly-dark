@@ -1,7 +1,7 @@
 {
-    "name": "darkish-theme",
-    "displayName": "ErrorDark",
-    "description": "ErrorDIM's VSCode Dark Theme",
+    "name": "friendly-dark",
+    "displayName": "Friendly Dark",
+    "description": "A friendly dark theme! ✨",
     "version": "7.3.2",
     "publisher": "ErrorDIM",
     "icon": "icons/errordark-circle.png",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ErrorDimension/ErrorDark"
+        "url": "https://github.com/Fukumi/friendly-dark"
     },
     "keywords": [
         "theme",
@@ -21,7 +21,8 @@
         "purple",
         "blue",
         "nice",
-        "background"
+        "background",
+        "fukumi"
     ],
     "categories": [
         "Themes"
@@ -29,17 +30,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "ErrorDark - Blue",
+                "label": "FriendlyDark - Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Blue-color-theme.json"
             },
             {
-                "label": "ErrorDark - Purple",
+                "label": "FriendlyDark - Purple",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Purple-color-theme.json"
             },
             {
-                "label": "ErrorDark - Grey",
+                "label": "FriendlyDark - Grey",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Grey-color-theme.json"
             }
