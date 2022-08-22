@@ -3,7 +3,7 @@
     "displayName": "Friendly Dark",
     "description": "A friendly dark theme! ✨",
     "version": "8.0.0",
-    "publisher": "ErrorDIM",
+    "publisher": "Fukumi",
     "icon": "icons/errordark-circle.png",
     "engines": {
         "vscode": "^1.60.0"

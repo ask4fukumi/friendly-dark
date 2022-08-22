@@ -10,7 +10,7 @@ Preview [here](https://vscode.dev/theme/errordim.darkish-theme)!
 
 ## Install
 
-Can be found at [here](https://marketplace.visualstudio.com/items?itemName=ErrorDIM.Darkish-Theme)!
+Can be found at [here](https://marketplace.visualstudio.com/items?itemName=ErrorDIM.friendly-dark)!
 
 ## License
 
