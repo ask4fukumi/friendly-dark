@@ -6,11 +6,11 @@
 
 ## Demonstration
 
-Preview [here](https://vscode.dev/theme/errordim.darkish-theme)!
+Preview [here](https://vscode.dev/theme/fukumi.friendly-dark)!
 
 ## Install
 
-Can be found at [here](https://marketplace.visualstudio.com/items?itemName=ErrorDIM.friendly-dark)!
+Can be found at [here](https://marketplace.visualstudio.com/items?itemName=Fukumi.friendly-dark)!
 
 ## License
 
