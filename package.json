@@ -31,9 +31,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "FriendlyDark - Blue",
+                "label": "FriendlyDark - Grey",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Blue-color-theme.json"
+                "path": "./themes/Grey-color-theme.json"
             },
             {
                 "label": "FriendlyDark - Purple",
@@ -41,9 +41,9 @@
                 "path": "./themes/Purple-color-theme.json"
             },
             {
-                "label": "FriendlyDark - Grey",
+                "label": "FriendlyDark - Blue",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Grey-color-theme.json"
+                "path": "./themes/Blue-color-theme.json"
             }
         ]
     }
