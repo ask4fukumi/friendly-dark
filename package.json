@@ -2,7 +2,7 @@
     "name": "friendly-dark",
     "displayName": "Friendly Dark",
     "description": "A friendly dark theme - new ErrorDark! ✨",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "Fukumi",
     "icon": "icons/errordark-circle.png",
     "engines": {
