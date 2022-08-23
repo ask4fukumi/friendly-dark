@@ -7,6 +7,12 @@
             "foreground": "#BD93F9",
             "fontStyle": "bold"
         },
+        "method.declaration.async": {
+            "foreground": "#DCDCAA"
+        },
+        "method.async": {
+            "foreground": "#DCDCAA"
+        },
         "function.async": {
             "foreground": "#DCDCAA"
         },
