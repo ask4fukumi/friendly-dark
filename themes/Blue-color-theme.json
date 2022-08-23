@@ -7,15 +7,6 @@
             "foreground": "#BD93F9",
             "fontStyle": "bold"
         },
-        "method.declaration.async": {
-            "foreground": "#DCDCAA"
-        },
-        "method.async": {
-            "foreground": "#DCDCAA"
-        },
-        "function.async": {
-            "foreground": "#DCDCAA"
-        },
         "type": {
             "foreground": "#8BE9FD",
             "fontStyle": ""
