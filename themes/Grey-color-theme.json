@@ -969,7 +969,7 @@
                 "keyword.operator.function.infix"
             ],
             "settings": {
-                "foreground": "#20E3B2"
+                "foreground": "#20e3c6"
             }
         },
         {
@@ -1324,7 +1324,10 @@
             }
         },
         {
-            "scope": ["entity.name.fragment.graphql", "variable.fragment.graphql"],
+            "scope": [
+                "entity.name.fragment.graphql",
+                "variable.fragment.graphql"
+            ],
             "settings": {
                 "foreground": "#8BE9FD"
             }
