@@ -507,9 +507,14 @@
             }
         },
         {
-            "scope": ["string.other.link.title"],
+            "scope": [
+                "meta.link.reference.def.restructuredtext",
+                "punctuation.definition.directive.restructuredtext",
+                "string.other.link.description",
+                "string.other.link.title"
+            ],
             "settings": {
-                "foreground": "#ff79c6"
+                "foreground": "#FF79C6"
             }
         },
         {
