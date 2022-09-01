@@ -428,7 +428,7 @@
             }
         },
         {
-            "scope": ["meta.paragraph.markdown", "text.html.derivative"],
+            "scope": ["meta.paragraph.markdown"],
             "settings": {
                 "foreground": "#FBF3E8"
             }
