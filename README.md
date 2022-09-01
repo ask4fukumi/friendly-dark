@@ -1,17 +1,23 @@
-# `Friendly Dark` for [Visual Studio Code](https://code.visualstudio.com/)
+# ✨ `Friendly Dark` for [Visual Studio Code](https://code.visualstudio.com/) ✨
 
-> **A dark theme for [Visual Studio Code](https://code.visualstudio.com)**
+> **A dark theme for [Visual Studio Code](https://code.visualstudio.com).**
 
-![Picture](./previews/ErrorDark.png)
+## Demonstrations
 
-## Demonstration
+### Flower Garden In Grey
 
-Preview [here](https://vscode.dev/theme/fukumi.friendly-dark)!
+#### HTML
 
-## Install
+![html](images/html-flower-garden-in-grey.png)
 
-Can be found at [here](https://marketplace.visualstudio.com/items?itemName=Fukumi.friendly-dark)!
+#### Typescript
+
+![ts](images/ts-flower-garden-in-grey.png)
+
+---
+Preview [here](https://vscode.dev/theme/fukumi.friendly-dark) on [**vscode.dev**](https://vscode.dev)!
+> There will be more schemes in the future.
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](LICENSE)

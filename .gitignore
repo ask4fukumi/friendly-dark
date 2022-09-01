@@ -3,3 +3,6 @@
 *.html
 *.js
 *.py
+
+# test files
+/tests
