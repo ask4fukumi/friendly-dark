@@ -4,7 +4,7 @@
     "description": "A friendly dark theme - new ErrorDark! ✨",
     "version": "1.0.6",
     "publisher": "Fukumi",
-    "icon": "icons/errordark-circle.png",
+    "icon": "icons/friendly-dark-circle.png",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -23,7 +23,8 @@
         "blue",
         "nice",
         "background",
-        "fukumi"
+        "fukumi",
+        "satoufukumi"
     ],
     "categories": [
         "Themes"
@@ -31,19 +32,24 @@
     "contributes": {
         "themes": [
             {
-                "label": "FriendlyDark - Grey",
+                "label": "FriendlyDark - Flower Garden In Grey",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Grey-color-theme.json"
+                "path": "./themes/flower-garden-in-grey.json"
             },
             {
-                "label": "FriendlyDark - Purple",
+                "label": "FriendlyDark - Grey - Deprecated",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Purple-color-theme.json"
+                "path": "./themes/grey-deprecated.json"
             },
             {
-                "label": "FriendlyDark - Blue",
+                "label": "FriendlyDark - Purple - Deprecated",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Blue-color-theme.json"
+                "path": "./themes/purple-deprecated.json"
+            },
+            {
+                "label": "FriendlyDark - Blue - Deprecated",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blue-deprecated.json"
             }
         ]
     }
