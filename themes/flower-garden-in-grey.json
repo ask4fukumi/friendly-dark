@@ -273,7 +273,10 @@
             }
         },
         {
-            "scope": ["entity.other.attribute-name.attribute"],
+            "scope": [
+                "entity.other.attribute-name.attribute",
+                "entity.other.attribute-name"
+            ],
             "settings": {
                 "foreground": "#20e3b2",
                 "fontStyle": ""
