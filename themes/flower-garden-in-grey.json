@@ -504,6 +504,12 @@
             }
         },
         {
+            "scope": ["string.other.link.title"],
+            "settings": {
+                "foreground": "#ff79c6"
+            }
+        },
+        {
             "scope": ["emphasis"],
             "settings": {
                 "fontStyle": "italic"
