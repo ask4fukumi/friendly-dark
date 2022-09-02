@@ -132,7 +132,7 @@
 
         "typeParameter": {
             "fontStyle": "",
-            "foreground": "#f9c74f"
+            "foreground": "#fca48c"
         },
 
         "class": {
@@ -225,12 +225,12 @@
         {
             "scope": [
                 "entity.name.function",
-                "meta.property-list meta.property-list",
                 "meta.property-value.scss support.constant.mathematical-symbols",
                 "meta.property-value.sass support.constant.mathematical-symbols",
                 "meta.property-value.css support.constant.mathematical-symbols",
                 "entity.name.function meta.function-call",
-                "variable.language.super"
+                "variable.language.super",
+                "source.css meta.property-value"
             ],
             "settings": {
                 "fontStyle": "",
@@ -330,7 +330,8 @@
             "scope": [
                 "meta.import variable.other.readwrite.alias",
                 "variable.other.constant",
-                "meta.object.member variable.other"
+                "meta.object.member variable.other",
+                "variable.other.object"
             ],
             "settings": {
                 "fontStyle": "bold",
@@ -624,6 +625,7 @@
                 "source.cpp punctuation.terminator",
                 "source.cpp punctuation.separator",
                 "keyword.operator.type.annotation",
+                "keyword.operator.optional",
                 "meta.type.annotation"
             ],
             "settings": {
