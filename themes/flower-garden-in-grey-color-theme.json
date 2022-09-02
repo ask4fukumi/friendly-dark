@@ -229,7 +229,7 @@
             }
         },
         {
-            "explanation": "Property that supports",
+            /** Property that supports */
             "scope": [
                 "meta.property-name support.type.property-name",
                 "support.type.property-name"
@@ -250,7 +250,7 @@
             }
         },
         {
-            "explanation": "property that does not support",
+            /** property that does not support */
             "scope": [
                 "meta.property-name.scss",
                 "meta.property-name meta.tag.other.unrecognized",
