@@ -209,6 +209,13 @@
             }
         },
         {
+            "scope": ["support.class.component"],
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#8be9fd"
+            }
+        },
+        {
             "scope": ["variable.scss", "variable.css", "variable.sass"],
             "settings": {
                 "fontStyle": "",
