@@ -184,12 +184,12 @@
         },
 
         "enum": {
-            "foreground": "#FFF49E",
+            "foreground": "#A7B0CA",
             "fontStyle": ""
         },
 
         "enumMember": {
-            "foreground": "#FFF49E",
+            "foreground": "#D5DCF9",
             "fontStyle": "italic"
         }
     },
