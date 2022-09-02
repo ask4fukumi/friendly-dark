@@ -221,7 +221,8 @@
                 "meta.property-list meta.property-list",
                 "meta.property-value.scss support.constant.mathematical-symbols",
                 "meta.property-value.sass support.constant.mathematical-symbols",
-                "meta.property-value.css support.constant.mathematical-symbols"
+                "meta.property-value.css support.constant.mathematical-symbols",
+                "meta.function-call"
             ],
             "settings": {
                 "fontStyle": "",
