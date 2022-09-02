@@ -290,6 +290,13 @@
             }
         },
         {
+            "scope": ["entity.name.type.module"],
+            "settings": {
+                "foreground": "#0affba",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "scope": ["support.type.primitive", "support.type.builtin"],
             "settings": {
                 "foreground": "#0aebff",
@@ -301,6 +308,13 @@
             "settings": {
                 "foreground": "#f1d478",
                 "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": ["constant.language.import-export-all"],
+            "settings": {
+                "foreground": "#f1d478",
+                "fontStyle": ""
             }
         },
         {
