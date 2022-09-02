@@ -229,7 +229,8 @@
                 "meta.property-value.scss support.constant.mathematical-symbols",
                 "meta.property-value.sass support.constant.mathematical-symbols",
                 "meta.property-value.css support.constant.mathematical-symbols",
-                "meta.function-call"
+                "entity.name.function meta.function-call",
+                "variable.language.super"
             ],
             "settings": {
                 "fontStyle": "",
@@ -621,7 +622,9 @@
                 "punctuation.definition.attribute-selector.begin.bracket.square.scss",
                 "punctuation.terminator.rule",
                 "source.cpp punctuation.terminator",
-                "source.cpp punctuation.separator"
+                "source.cpp punctuation.separator",
+                "keyword.operator.type.annotation",
+                "meta.type.annotation"
             ],
             "settings": {
                 "foreground": "#E9F1F7",
