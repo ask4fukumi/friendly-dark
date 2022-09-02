@@ -1,4 +1,4 @@
-# ✨ `Friendly Dark` for [Visual Studio Code](https://code.visualstudio.com/) ✨
+# ✨ `Friendly Dark` for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Fukumi.friendly-dark) ✨
 
 > **A dark theme for [Visual Studio Code](https://code.visualstudio.com).**
 
