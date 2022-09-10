@@ -195,7 +195,10 @@
     },
     "tokenColors": [
         {
-            "scope": ["meta.tag.attributes variable.other.readwrite.tsx"],
+            "scope": [
+                "meta.tag.attributes variable.other.readwrite.tsx",
+                "source.css.scss"
+            ],
             "settings": {
                 "foreground": "#20E3B2"
             }
