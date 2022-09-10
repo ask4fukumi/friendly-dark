@@ -632,6 +632,12 @@
             }
         },
         {
+            "scope": ["meta.property-list"],
+            "settings": {
+                "fontStyle": ""
+            }
+        },
+        {
             "scope": [
                 "source",
                 "string.template punctuation.accessor",
