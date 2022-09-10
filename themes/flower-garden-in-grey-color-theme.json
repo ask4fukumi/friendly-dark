@@ -195,10 +195,7 @@
     },
     "tokenColors": [
         {
-            "scope": [
-                "meta.tag.attributes variable.other.readwrite.tsx",
-                "source.css.scss"
-            ],
+            "scope": ["meta.tag.attributes variable.other.readwrite.tsx"],
             "settings": {
                 "foreground": "#20E3B2"
             }
@@ -235,6 +232,13 @@
             "settings": {
                 "fontStyle": "",
                 "foreground": "#90e0ef"
+            }
+        },
+        {
+            "scope": ["source.css.scss"],
+            "settings": {
+                "foreground": "#D5DCF9",
+                "fontStyle": "italic"
             }
         },
         {
