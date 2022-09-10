@@ -325,6 +325,13 @@
             }
         },
         {
+            "scope": ["entity.name.type"],
+            "settings": {
+                "foreground": "#0aebff",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "scope": ["support.type.primitive", "support.type.builtin"],
             "settings": {
                 "foreground": "#0aebff",
