@@ -216,6 +216,12 @@
             }
         },
         {
+            "scope": ["source.css entity.name.tag.reference"],
+            "settings": {
+                "foreground": "#e06c96"
+            }
+        },
+        {
             "scope": ["variable.scss", "variable.css", "variable.sass"],
             "settings": {
                 "fontStyle": "",
