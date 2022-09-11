@@ -639,6 +639,14 @@
             }
         },
         {
+            "scope": ["variable.language"],
+            "name": "*",
+            "settings": {
+                "foreground": "#BD93F9",
+                "fontStyle": "italic"
+            }
+        },
+        {
             "scope": "source.ini",
             "settings": {
                 "foreground": "#dcdcaa"
