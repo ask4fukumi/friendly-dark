@@ -201,7 +201,7 @@
             }
         },
         {
-            "scope": "variable.other.property",
+            "scope": ["variable.other.property", "variable.other.object.property"],
             "settings": {
                 "fontStyle": "",
                 "foreground": "#e06c96"
