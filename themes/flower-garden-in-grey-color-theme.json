@@ -222,6 +222,12 @@
             }
         },
         {
+            "scope": ["constant.character.escape"],
+            "settings": {
+                "foreground": "#ff79c6"
+            }
+        },
+        {
             "scope": ["source.css entity.name.tag.reference"],
             "settings": {
                 "foreground": "#e06c96"
