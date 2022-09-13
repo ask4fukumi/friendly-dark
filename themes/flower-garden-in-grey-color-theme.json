@@ -222,9 +222,61 @@
             }
         },
         {
-            "scope": ["constant.character.escape"],
+            "scope": ["constant.character.escape", "constant.regexp"],
             "settings": {
                 "foreground": "#ff79c6"
+            }
+        },
+        {
+            "scope": [
+                "string.regexp",
+                "constant.other.character-class.set.regexp",
+                "constant.character.escape.backslash.regexp"
+            ],
+            "settings": {
+                "foreground": "#F1FA8C"
+            }
+        },
+        {
+            "scope": ["punctuation.definition.group.capture.regexp"],
+            "settings": {
+                "foreground": "#FF79C6"
+            }
+        },
+        {
+            "scope": [
+                "string.regexp punctuation.definition.string.begin",
+                "string.regexp punctuation.definition.string.end"
+            ],
+            "settings": {
+                "foreground": "#FF5555"
+            }
+        },
+        {
+            "scope": ["punctuation.definition.character-class.regexp"],
+            "settings": {
+                "foreground": "#8BE9FD"
+            }
+        },
+        {
+            "scope": ["punctuation.definition.group.regexp"],
+            "settings": {
+                "foreground": "#FFB86C"
+            }
+        },
+        {
+            "scope": [
+                "punctuation.definition.group.assertion.regexp",
+                "keyword.operator.negation.regexp"
+            ],
+            "settings": {
+                "foreground": "#FF5555"
+            }
+        },
+        {
+            "scope": ["meta.assertion.look-ahead.regexp"],
+            "settings": {
+                "foreground": "#20E3B2"
             }
         },
         {
