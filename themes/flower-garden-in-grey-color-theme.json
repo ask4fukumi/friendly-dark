@@ -104,16 +104,16 @@
         },
 
         "variable": {
-            "foreground": "#f1d478",
+            "foreground": "#ebd48a",
             "fontStyle": ""
         },
         "variable.readonly": {
             "fontStyle": "bold",
-            "foreground": "#f1d478"
+            "foreground": "#ebd48a"
         },
         "variable.global": {
             "fontStyle": "bold",
-            "foreground": "#f1d478"
+            "foreground": "#ebd48a"
         },
         "variable.defaultLibrary": {
             "fontStyle": "italic",
@@ -147,17 +147,17 @@
 
         "operatorOverload": {
             "fontStyle": "",
-            "foreground": "#90e0ef"
+            "foreground": "#6aa3f8"
         },
 
         "memberOperatorOverload": {
             "fontStyle": "",
-            "foreground": "#90e0ef"
+            "foreground": "#6aa3f8"
         },
 
         "function": {
             "fontStyle": "",
-            "foreground": "#90e0ef"
+            "foreground": "#6aa3f8"
         },
         "function.static": {
             "fontStyle": "",
@@ -166,7 +166,7 @@
 
         "method": {
             "fontStyle": "",
-            "foreground": "#90e0ef"
+            "foreground": "#6aa3f8"
         },
         "method.static": {
             "fontStyle": "",
@@ -208,7 +208,7 @@
             }
         },
         {
-            "scope": "meta.preprocessor.macro",
+            "scope": ["meta.preprocessor.macro", "variable.parameter"],
             "settings": {
                 "foreground": "#deaaff",
                 "fontStyle": ""
@@ -289,7 +289,7 @@
             "scope": ["variable.scss", "variable.css", "variable.sass"],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#90e0ef"
+                "foreground": "#6aa3f8"
             }
         },
         {
@@ -311,17 +311,18 @@
             ],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#90e0ef"
+                "foreground": "#6aa3f8"
             }
         },
         {
             /** Property that supports */
             "scope": [
                 "meta.property-name support.type.property-name",
-                "support.type.property-name"
+                "support.type.property-name",
+                "support.type.vendored.property-name"
             ],
             "settings": {
-                "foreground": "#8b9efd",
+                "foreground": "#8d86f3",
                 "fontStyle": ""
             }
         },
@@ -354,7 +355,7 @@
                 "source.css entity.other.attribute-name"
             ],
             "settings": {
-                "foreground": "#e4afff",
+                "foreground": "#ca91e7",
                 "fontStyle": ""
             }
         },
@@ -399,14 +400,14 @@
         {
             "scope": ["variable.language.this"],
             "settings": {
-                "foreground": "#f1d478",
+                "foreground": "#e9bc7e",
                 "fontStyle": "italic"
             }
         },
         {
-            "scope": ["constant.language.import-export-all"],
+            "scope": ["constant.language.import-export-all", "variable.other.readwrite"],
             "settings": {
-                "foreground": "#f1d478",
+                "foreground": "#ebd48a",
                 "fontStyle": ""
             }
         },
@@ -419,7 +420,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#f1d478"
+                "foreground": "#ebd48a"
             }
         },
         {
