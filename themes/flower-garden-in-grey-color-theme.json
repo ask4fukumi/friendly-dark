@@ -431,6 +431,13 @@
             }
         },
         {
+            "scope": ["source.embedded", "source.cpp", "source.c"],
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#b8c0ff"
+            }
+        },
+        {
             "scope": [
                 "constant.language.false",
                 "constant.language.true",
@@ -438,20 +445,17 @@
                 "constant.language.boolean.true",
                 "constant.language.json",
                 "constant.language.undefined",
-                "constant.language.null",
-                "source.embedded",
-                "source.cpp",
-                "source.c"
+                "constant.language.null"
             ],
             "settings": {
-                "fontStyle": "",
-                "foreground": "#7076fa"
+                "foreground": "#b8c0ff",
+                "fontStyle": "italic"
             }
         },
         {
             "scope": "keyword.operator.arithmetic",
             "settings": {
-                "foreground": "#b5e48c",
+                "foreground": "#ea6879",
                 "fontStyle": ""
             }
         },
