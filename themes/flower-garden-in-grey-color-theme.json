@@ -293,6 +293,13 @@
             }
         },
         {
+            "scope": ["constant.other"],
+            "settings": {
+                "foreground": "#9a86fd",
+                "fontStyle": "bold"
+            }
+        },
+        {
             "scope": ["source.css.scss"],
             "settings": {
                 "foreground": "#D5DCF9",
