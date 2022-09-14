@@ -147,17 +147,17 @@
 
         "operatorOverload": {
             "fontStyle": "",
-            "foreground": "#6aa3f8"
+            "foreground": "#78b6ff"
         },
 
         "memberOperatorOverload": {
             "fontStyle": "",
-            "foreground": "#6aa3f8"
+            "foreground": "#78b6ff"
         },
 
         "function": {
             "fontStyle": "",
-            "foreground": "#6aa3f8"
+            "foreground": "#78b6ff"
         },
         "function.static": {
             "fontStyle": "",
@@ -166,7 +166,7 @@
 
         "method": {
             "fontStyle": "",
-            "foreground": "#6aa3f8"
+            "foreground": "#78b6ff"
         },
         "method.static": {
             "fontStyle": "",
@@ -289,7 +289,7 @@
             "scope": ["variable.scss", "variable.css", "variable.sass"],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#6aa3f8"
+                "foreground": "#78b6ff"
             }
         },
         {
@@ -311,7 +311,7 @@
             ],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#6aa3f8"
+                "foreground": "#78b6ff"
             }
         },
         {
@@ -445,7 +445,7 @@
             ],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#b8c0ff"
+                "foreground": "#7076fa"
             }
         },
         {
