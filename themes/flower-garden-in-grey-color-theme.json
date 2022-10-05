@@ -203,7 +203,8 @@
         {
             "scope": [
                 "variable.other.property",
-                "variable.other.object.property"
+                "variable.other.object.property",
+                "support.variable.property.importmeta"
             ],
             "settings": {
                 "fontStyle": "",
