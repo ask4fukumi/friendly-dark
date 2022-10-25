@@ -42,6 +42,11 @@
                 "path": "./themes/flower-garden-in-grey-darker-color-theme.json"
             },
             {
+                "label": "FriendlyDark - One Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-dark-pro-color-theme.json"
+            },
+            {
                 "label": "FriendlyDark - Grey - Deprecated",
                 "uiTheme": "vs-dark",
                 "path": "./themes/grey-deprecated-color-theme.json"
