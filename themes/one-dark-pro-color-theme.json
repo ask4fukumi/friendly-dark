@@ -153,7 +153,7 @@
         },
         "function.static": {
             "fontStyle": "",
-            "foreground": "#dcdcaa"
+            "foreground": "#f2f2af"
         },
 
         "method": {
@@ -168,6 +168,10 @@
         "property": {
             "fontStyle": "",
             "foreground": "#e06c96"
+        },
+        "property.defaultLibrary": {
+            "fontStyle": "italic",
+            "foreground": "#ebd48a"
         },
 
         "namespace": {
