@@ -309,8 +309,7 @@
                 "meta.property-value.sass support.constant.mathematical-symbols",
                 "meta.property-value.css support.constant.mathematical-symbols",
                 "entity.name.function meta.function-call",
-                "variable.language.super",
-                "meta.property-value"
+                "variable.language.super"
             ],
             "settings": {
                 "fontStyle": "",
