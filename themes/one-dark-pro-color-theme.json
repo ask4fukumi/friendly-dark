@@ -1344,9 +1344,16 @@
 			}
 		},
 		{
-			"scope": "support.class, entity.name.type.class",
+			"scope": "entity.name.type.class",
 			"settings": {
 				"foreground": "#0affba"
+			}
+		},
+		{
+			"scope": ["support.class", "support.class.component"],
+			"settings": {
+				"foreground": "#E5C07B",
+				"fontStyle": ""
 			}
 		},
 		{
