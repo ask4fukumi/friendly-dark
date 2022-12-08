@@ -32,6 +32,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "FriendlyDark - One Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-dark-pro-color-theme.json"
+            },
+            {
                 "label": "FriendlyDark - Flower Garden In Grey",
                 "uiTheme": "vs-dark",
                 "path": "./themes/flower-garden-in-grey-color-theme.json"
@@ -40,11 +45,6 @@
                 "label": "FriendlyDark - Flower Garden In Grey (Darker)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/flower-garden-in-grey-darker-color-theme.json"
-            },
-            {
-                "label": "FriendlyDark - One Dark Pro",
-                "uiTheme": "vs-dark",
-                "path": "./themes/one-dark-pro-color-theme.json"
             },
             {
                 "label": "FriendlyDark - Grey - Deprecated",
