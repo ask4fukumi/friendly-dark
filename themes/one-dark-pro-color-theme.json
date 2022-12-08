@@ -374,6 +374,7 @@
 				"entity.name.type",
 				"support.class, entity.name.type.class",
 				"support.type.primitive",
+				"entity.other.inherited-class"
 			],
 			"settings": {
 				"foreground": "#4fdcb4",
