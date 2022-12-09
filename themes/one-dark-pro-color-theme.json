@@ -271,12 +271,14 @@
 				"variable.other.constant",
 				"variable.other.readwrite",
 				"variable.other.object",
-				"support.type.object.module"
+				"support.type.object.module",
+				"variable.language.this"
 			],
 			"settings": {
 				"foreground": "#E5C07B",
 				"fontStyle": ""
-			}
+			},
+			"name": "*"
 		},
 		// token: parameter
 		{
@@ -481,7 +483,10 @@
 			}
 		},
 		{
-			"scope": "entity.other.attribute-name",
+			"scope": [
+				"entity.other.attribute-name",
+				"entity.other.attribute-name.attribute",
+			],
 			"settings": {
 				"foreground": "#D19A66"
 			}
@@ -494,6 +499,14 @@
 		},
 		{
 			"scope": "entity.other.attribute-name.class.css",
+			"settings": {
+				"foreground": "#D19A66"
+			}
+		},
+		{
+			"scope": [
+				"meta.tag.attributes variable.other.readwrite.tsx"
+			],
 			"settings": {
 				"foreground": "#D19A66"
 			}
