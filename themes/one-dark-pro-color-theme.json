@@ -385,7 +385,8 @@
 		{
 			"scope": [
 				"constant",
-				"constant.numeric"
+				"constant.numeric",
+				"support.type.builtin"
 			],
 			"settings": {
 				"foreground": "#D19A66",
