@@ -1,3 +1,4 @@
+// cSpell: disable
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
@@ -171,7 +172,7 @@
 		"editorInlayHint.parameterBackground": "#272727b7",
 		"editorInlayHint.parameterForeground": "#ffffffba",
 		"editorInlayHint.typeBackground": "#00000000",
-		"editorInlayHint.typeForeground": "#4fdcb4d9",
+		"editorInlayHint.typeForeground": "#F783B0d9",
 		// terminal colors 
 		"terminal.ansiBlack": "#3f4451",
 		"terminal.ansiBlue": "#4aa5f0",
@@ -182,7 +183,7 @@
 		"terminal.ansiBrightMagenta": "#de73ff",
 		"terminal.ansiBrightRed": "#ff616e",
 		"terminal.ansiBrightWhite": "#e6e6e6",
-		"terminal.ansiBrightYellow": "#f0a45d",
+		"terminal.ansiBrightYellow": "#f0da5d",
 		"terminal.ansiCyan": "#42b3c2",
 		"terminal.ansiGreen": "#8cc265",
 		"terminal.ansiMagenta": "#c162de",
@@ -204,27 +205,27 @@
 			"fontStyle": ""
 		},
 		"parameter": {
-			"foreground": "#deaaff",
+			"foreground": "#ce92f3",
 			"fontStyle": ""
 		},
 		"type": {
-			"foreground": "#4fdcb4",
+			"foreground": "#ee7ba7",
 			"fontStyle": ""
 		},
 		"typeParameter": {
 			"fontStyle": "",
-			"foreground": "#fca48c"
+			"foreground": "#ee7ba7"
 		},
 		"class": {
-			"foreground": "#4fdcb4",
+			"foreground": "#ee7ba7",
 			"fontStyle": ""
 		},
 		"interface": {
-			"foreground": "#4fdcb4",
+			"foreground": "#ee7ba7",
 			"fontStyle": ""
 		},
 		"templateType": {
-			"foreground": "#4fdcb4",
+			"foreground": "#ee7ba7",
 			"fontStyle": ""
 		},
 		"operatorOverload": {
@@ -248,25 +249,39 @@
 			"foreground": "#E06C75"
 		},
 		"namespace": {
-			"foreground": "#4fdcb4",
+			"foreground": "#ee7ba7",
 			"fontStyle": ""
 		},
 		"enum": {
-			"foreground": "#A7B0CA",
+			"foreground": "#48cae4",
 			"fontStyle": ""
 		},
 		"enumMember": {
-			"foreground": "#D5DCF9",
+			"foreground": "#48cae4",
 			"fontStyle": "italic"
 		}
 	},
 	"semanticHighlighting": true,
 	"tokenColors": [
+		// token: enum
+		{
+			"scope": ["entity.name.type.enum"],
+			"settings": {
+				"foreground": "#48cae4",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": ["variable.other.enummember"],
+			"settings": {
+				"foreground": "#48cae4",
+				"fontStyle": "italic"
+			}	
+		},
 		// token: variable
 		{
 			"scope": [
 				"variable.other.env",
-				"support.class.component",
 				"support.constant.math",
 				"variable.other.constant",
 				"variable.other.readwrite",
@@ -280,13 +295,23 @@
 			},
 			"name": "*"
 		},
+		{
+			"scope": [
+				"support.variable.magic.python"
+			],
+			"settings": {
+				"foreground": "#E06C75",
+				"fontStyle": ""
+			},
+			"name": "*"
+		},
 		// token: parameter
 		{
 			"scope": [
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#deaaff",
+				"foreground": "#ce92f3",
 				"fontStyle": ""
 			}
 		},
@@ -357,7 +382,7 @@
 				"punctuation.definition.template-expression"
 			],
 			"settings": {
-				"foreground": "#c678dd",
+				"foreground": "#d47bda",
 				"fontStyle": ""
 			}
 		},
@@ -376,11 +401,22 @@
 			"scope": [
 				"entity.name.type",
 				"support.class, entity.name.type.class",
-				"support.type.primitive",
-				"entity.other.inherited-class"
+				"support.class",
+				"entity.name.type.class",
+				"entity.other.inherited-class",
+				"support.class.component"
 			],
 			"settings": {
-				"foreground": "#4fdcb4",
+				"foreground": "#ee7ba7",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"support.type.primitive",
+			],
+			"settings": {
+				"foreground": "#D19A66",
 				"fontStyle": ""
 			}
 		},
@@ -488,7 +524,15 @@
 				"entity.other.attribute-name.attribute",
 			],
 			"settings": {
-				"foreground": "#D19A66"
+				"foreground": "#cd5686"
+			}
+		},
+		{
+			"scope": [
+				"meta.tag.attributes variable.other.readwrite.tsx"
+			],
+			"settings": {
+				"foreground": "#cd5686"
 			}
 		},
 		{
@@ -499,14 +543,6 @@
 		},
 		{
 			"scope": "entity.other.attribute-name.class.css",
-			"settings": {
-				"foreground": "#D19A66"
-			}
-		},
-		{
-			"scope": [
-				"meta.tag.attributes variable.other.readwrite.tsx"
-			],
 			"settings": {
 				"foreground": "#D19A66"
 			}
