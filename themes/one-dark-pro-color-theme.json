@@ -345,6 +345,7 @@
 				"variable.other.property",
 				"variable.other.constant.property",
 				"variable.other.object.property",
+				"support.variable.property"
 			],
 			"settings": {
 				"foreground": "#E06C75",
