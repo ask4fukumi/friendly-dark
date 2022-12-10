@@ -855,6 +855,8 @@
 				"string",
 				"punctuation.definition.string.begin.html.vue",
 				"punctuation.definition.string.end.html.vue",
+				"support.constant.classname.twin",
+				"meta.tag.attributes meta.embedded"
 			],
 			"settings": {
 				"foreground": "#98C379",
