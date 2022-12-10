@@ -335,6 +335,7 @@
 				"meta.import variable.other.readwrite",
 				"variable.object.property",
 				"variable.other.property",
+				"variable.other.constant.property"
 			],
 			"settings": {
 				"foreground": "#E06C75",
