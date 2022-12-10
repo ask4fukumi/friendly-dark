@@ -248,6 +248,10 @@
 			"fontStyle": "",
 			"foreground": "#E06C75"
 		},
+		"property.defaultLibrary": {
+			"fontStyle": "",
+			"foreground": "#E5C07B"
+		},
 		"namespace": {
 			"foreground": "#ee7ba7",
 			"fontStyle": ""
@@ -265,18 +269,22 @@
 	"tokenColors": [
 		// token: enum
 		{
-			"scope": ["entity.name.type.enum"],
+			"scope": [
+				"entity.name.type.enum"
+			],
 			"settings": {
 				"foreground": "#48cae4",
 				"fontStyle": ""
 			}
 		},
 		{
-			"scope": ["variable.other.enummember"],
+			"scope": [
+				"variable.other.enummember"
+			],
 			"settings": {
 				"foreground": "#48cae4",
 				"fontStyle": "italic"
-			}	
+			}
 		},
 		// token: variable
 		{
