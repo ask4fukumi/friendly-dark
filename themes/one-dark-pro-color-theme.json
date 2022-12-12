@@ -329,7 +329,8 @@
 				"entity.name.function",
 				"variable.function",
 				"meta.require",
-				"support.function.any-method"
+				"support.function.any-method",
+				"variable.language.super"
 			],
 			"settings": {
 				"foreground": "#61AFEF",
