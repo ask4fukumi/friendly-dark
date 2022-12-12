@@ -847,7 +847,8 @@
 			],
 			"settings": {
 				"foreground": "#abb2bf",
-			}
+			},
+			"name": "*"
 		},
 		// token: string
 		{
@@ -856,7 +857,7 @@
 				"punctuation.definition.string.begin.html.vue",
 				"punctuation.definition.string.end.html.vue",
 				"support.constant.classname.twin",
-				"meta.tag.attributes meta.embedded"
+				"meta.var.expr meta.embedded.expression"
 			],
 			"settings": {
 				"foreground": "#98C379",
