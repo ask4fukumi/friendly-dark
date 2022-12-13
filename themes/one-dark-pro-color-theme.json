@@ -858,6 +858,7 @@
 				"punctuation.definition.string.begin.html.vue",
 				"punctuation.definition.string.end.html.vue",
 				"support.constant.classname.twin",
+				"support.type.arbitrary-style.prop.twin",
 				"meta.var.expr meta.embedded.expression"
 			],
 			"settings": {
