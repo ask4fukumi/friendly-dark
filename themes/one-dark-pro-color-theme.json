@@ -205,7 +205,7 @@
 			"fontStyle": ""
 		},
 		"parameter": {
-			"foreground": "#ce92f3",
+			"foreground": "#ac92f3",
 			"fontStyle": ""
 		},
 		"type": {
@@ -319,7 +319,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#ce92f3",
+				"foreground": "#ac92f3",
 				"fontStyle": ""
 			}
 		},
