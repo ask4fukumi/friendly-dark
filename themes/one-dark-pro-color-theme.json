@@ -295,6 +295,7 @@
 				"variable.other.readwrite",
 				"variable.other.object",
 				"support.type.object.module",
+				"source.js support.type.object.module keyword.operator.accessor",
 				"variable.language.this"
 			],
 			"settings": {
@@ -457,6 +458,7 @@
 		// token: punctuation 
 		{
 			"scope": [
+				"keyword.operator.accessor",
 				"keyword.operator.type.annotation",
 				"keyword.operator.optional",
 			],
@@ -467,7 +469,8 @@
 		},
 		{
 			"scope": [
-				"punctuation.accessor"
+				"punctuation.accessor",
+				"punctuation.separator"
 			],
 			"settings": {
 				"fontStyle": "",
