@@ -606,6 +606,24 @@
 		},
 		{
 			"scope": [
+				"keyword.operator.less"
+			],
+			"settings": {
+				"foreground": "#D19A66",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name.pseudo-class"
+			],
+			"settings": {
+				"foreground": "#56B6C2",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
 				"punctuation.separator.list.comma.css",
 				"support.type.property-name",
 				"source.css meta.attribute.style.html"
@@ -649,6 +667,8 @@
 				"variable.scss",
 				"variable.sass",
 				"variable.css",
+				"variable.other.less",
+				"variable.other.interpolation.less",
 			],
 			"settings": {
 				"foreground": "#E06C75"
