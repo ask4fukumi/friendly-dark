@@ -578,7 +578,11 @@
 			}
 		},
 		{
-			"scope": "support.constant.property-value.scss,support.constant.property-value.css",
+			"scope": [
+				"support.constant.property-value.css",
+				"support.constant.property-value.scss",
+				"meta.property-value support.type.property-name"
+			],
 			"settings": {
 				"foreground": "#D19A66"
 			}
