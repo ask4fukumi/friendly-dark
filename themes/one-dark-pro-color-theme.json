@@ -630,7 +630,8 @@
 			"scope": [
 				"punctuation.separator.list.comma.css",
 				"support.type.property-name",
-				"source.css meta.attribute.style.html"
+				"source.css meta.attribute.style.html",
+				"variable.parameter.keyframe-list"
 			],
 			"settings": {
 				"foreground": "#ABB2BF"
