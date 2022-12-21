@@ -320,7 +320,8 @@
 		{
 			"scope": [
 				"variable.parameter",
-				"meta.type.parameters"
+				"meta.type.parameters",
+				"meta.type.tuple"
 			],
 			"settings": {
 				"foreground": "#ac92f3",
