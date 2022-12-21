@@ -319,7 +319,8 @@
 		// token: parameter
 		{
 			"scope": [
-				"variable.parameter"
+				"variable.parameter",
+				"meta.type.parameters"
 			],
 			"settings": {
 				"foreground": "#ac92f3",
