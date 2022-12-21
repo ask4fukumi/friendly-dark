@@ -30,11 +30,10 @@
 		// bg and fg
 		"editor.background": "#23272e",
 		"editor.foreground": "#abb2bf",
-		// find match high light
-		"editor.findMatchBackground": "#42557b",
-		"editor.findMatchBorder": "#457dff",
-		"editor.findMatchHighlightBackground": "#6199ff2f",
-		// high light
+		// find match highlight
+		"editor.findMatchBackground": "#44577dee",
+		"editor.findMatchHighlightBackground": "#5081dd1b",
+		// highlight
 		"editor.lineHighlightBackground": "#2c313c",
 		"editor.selectionBackground": "#67769660",
 		"editor.selectionHighlightBackground": "#ffffff10",
@@ -48,6 +47,9 @@
 		"editorBracketHighlight.foreground2": "#ea85c2",
 		"editorBracketHighlight.foreground1": "#56b6c2",
 		"editorBracketHighlight.foreground3": "#c678dd",
+		// selection
+		"selection.background": "#67769660",
+		// bracket match
 		"editorBracketMatch.background": "#515a6b00",
 		"editorBracketMatch.border": "#515a6b00",
 		// cursor
@@ -172,7 +174,7 @@
 		"editorInlayHint.parameterBackground": "#272727b7",
 		"editorInlayHint.parameterForeground": "#ffffffba",
 		"editorInlayHint.typeBackground": "#00000000",
-		"editorInlayHint.typeForeground": "#F783B0d9",
+		"editorInlayHint.typeForeground": "#ee7ba7d9",
 		// terminal colors 
 		"terminal.ansiBlack": "#3f4451",
 		"terminal.ansiBlue": "#4aa5f0",
